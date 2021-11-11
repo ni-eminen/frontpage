@@ -32,10 +32,10 @@ function App() {
         2. Commission by JYY
       </Button>
       <h1>Git</h1>
-      <Button className="linkButton" onClick={() => openWebsite('./NewQuiz')}>
+      <Button className="linkButton" onClick={() => openWebsite('https://github.com/ni-eminen')}>
         3. GitHub
       </Button>
-      <Button className="linkButton" onClick={() => openWebsite('./NewQuiz')}>
+      <Button className="linkButton" onClick={() => openWebsite('https://gitlab.jyu.fi/matoskni')}>
         4. GitLab
       </Button>
     </div>
