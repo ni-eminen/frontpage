@@ -246,3 +246,17 @@ h2 {
   font-size: 4em;
   margin: 0;
 }
+
+.projectWrapper {
+  display: inline;
+}
+
+.linkButton {
+  width: 70%;
+  margin: 5px;
+}
+
+.gitButton {
+  width: 25%;
+  margin: 5px;
+}
